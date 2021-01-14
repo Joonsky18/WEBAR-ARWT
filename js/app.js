@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/ARWT Fiat500.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/ARWT_Squirrel.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
